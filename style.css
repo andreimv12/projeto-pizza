@@ -30,6 +30,8 @@ header {
     background-color: #a9dcff;
     padding: 5px 20px;
     border-radius: 5px;
+    cursor:pointer;
+
 }
 .menu-openner span {
     margin-right:10px;
@@ -39,6 +41,7 @@ header {
     height:32px;
     display:none;
     font-size: 30px;
+    cursor:pointer;
 }
 
 aside {
